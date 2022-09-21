@@ -1,4 +1,4 @@
 # User Guide
 
-[Python Online Course](online-courses.md)
+[Python Online Course](python-courses.md)
 
