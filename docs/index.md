@@ -2,9 +2,12 @@
 
 [Python Online Course](python-courses.md)
 
-## Getting Started with Python
+## Table of Contents
 
-### Questions
+### Getting Started with Python
 
-### MCQs
-
+- Hello World
+- Python Indentation
+- Variables and Assignments
+- Questions
+- [MCQs](basics-mcqs.md)
