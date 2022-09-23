@@ -7,7 +7,8 @@
 ### Python Introduction
 
 - [Language Introduction](http://yasirbhutta.blogspot.com/2022/09/python-introduction-language.html)
-  
+- Questions
+- MCQs  
 ### Getting Started with Python
 
 - Hello World
