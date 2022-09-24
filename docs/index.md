@@ -7,23 +7,18 @@
 ### Python Introduction
 
 - [Language Introduction](http://yasirbhutta.blogspot.com/2022/09/python-introduction-language.html)
+- Hello World
 - Python source code
-- User-defined Functions
+- [Comments](https://yasirbhutta.blogspot.com/2022/09/learn-python-in-1-minute-comments.html)
 - [Indentation](https://yasirbhutta.blogspot.com/2022/09/learn-python-in-1-minute-python.html)
+- [Variables and Assignments](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-basic.html)
+  - Tuple [example1](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple.html) [example2](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple_22.html)
+- User-defined Functions
 - Code Checked at Runtime
 - Variable Names
 - More on Modules and their Namespaces
 - Online help, help(), and dir()
-- Questions
-- MCQs
-### Getting Started with Python
-
-- Hello World
-- [Comments](https://yasirbhutta.blogspot.com/2022/09/learn-python-in-1-minute-comments.html)
-- [Variables and Assignments](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-basic.html)
-  - Tuple [example1](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple.html) [example2](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple_22.html)
-- Questions
-- [MCQs](basics-mcqs.md)
+- [Exercises](exercises.md)
 
 ### Python Data Types
 
@@ -62,4 +57,29 @@
 - bytearray
 - memoryview
 
+### Control Structures
+
+#### conditions
+
+#### loops
+
 ### Python Sorting
+
+### Python Regular Expressions
+
+### Functions
+
+### Classes
+
+### Error and Exception Handling
+
+### File Handling
+
+### Read CSV and XML Files
+
+### Testing
+
+### Modules
+
+#### Data Analysis
+
