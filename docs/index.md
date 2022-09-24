@@ -57,13 +57,15 @@
 - bytearray
 - memoryview
 
-### Control Structures
+### Control Flow
 
 #### conditions
 
 #### loops
 
 ### Python Sorting
+
+### Modules
 
 ### Functions
 
