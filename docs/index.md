@@ -65,8 +65,6 @@
 
 ### Python Sorting
 
-### Python Regular Expressions
-
 ### Functions
 
 ### Classes
@@ -76,6 +74,10 @@
 ### File Handling
 
 ### Read CSV and XML Files
+
+### Python Regular Expressions
+
+### Python Utilities
 
 ### Testing
 
