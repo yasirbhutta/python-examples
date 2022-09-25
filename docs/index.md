@@ -6,7 +6,8 @@
 
 ### Installation & Getting Started
 
-- Python PIP
+- [Get Started Tutorial for Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
+- [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
   
 ### Python Introduction
 
