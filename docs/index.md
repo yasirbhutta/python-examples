@@ -8,11 +8,11 @@
 
 - [Get Started Tutorial for Python in Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial)
 - [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+- [Hello World](https://yasirbhutta.blogspot.com/2022/09/python-print-function.html)
   
 ### Python Introduction
 
 - [Language Introduction](http://yasirbhutta.blogspot.com/2022/09/python-introduction-language.html)
-- Hello World
 - Python source code
 - [Comments](https://yasirbhutta.blogspot.com/2022/09/learn-python-in-1-minute-comments.html)
 - [Indentation](https://yasirbhutta.blogspot.com/2022/09/learn-python-in-1-minute-python.html)
