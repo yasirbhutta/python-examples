@@ -1,4 +1,4 @@
-# https://yasirbhutta.blogspot.com/
+# https://yasirbhutta.blogspot.com/2022/09/python-int-function-how-to-convert.html
 # Python - Convert String to int
 str1 = "2008"  # string
 str2 = '14'    # string
