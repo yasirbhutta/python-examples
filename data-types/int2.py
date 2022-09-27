@@ -1,4 +1,4 @@
-# https://yasirbhutta.blogspot.com/2022/09/python-int-function-how-to-convert.html
+# https://yasirbhutta.blogspot.com/
 # Python - Convert String to int
 str1 = "2008"  # string
 str2 = '14'    # string
@@ -7,7 +7,16 @@ str2 = '14'    # string
 print(int(str1)+int(str2))
 
 
-# Convert int to string
+# How to Convert a Python integer to string
+num1 = 36
+num2 = 14
+sum = num1+ num2
+
+# the '+' does not automatically convert 
+# numbers or other types to string form.
+## print("Total = " + sum ) ## NO, does not work
+
+print("Total = " + str(sum)) ## yes
 
 # Convert to octal and hexadecimal
 
