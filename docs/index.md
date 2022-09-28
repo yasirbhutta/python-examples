@@ -17,7 +17,7 @@
 - [Comments](https://yasirbhutta.blogspot.com/2022/09/learn-python-in-1-minute-comments.html)
 - [Indentation](https://yasirbhutta.blogspot.com/2022/09/learn-python-in-1-minute-python.html)
 - [Variables and Assignments](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-basic.html)
-  - Tuple [example1](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple.html) [example2](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple_22.html)
+  - Tuple [example1,](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple.html) [example2](https://yasirbhutta.blogspot.com/2022/09/python-variables-and-assignment-tuple_22.html)
 - User-defined Functions
 - Code Checked at Runtime
 - Variable Names
@@ -33,7 +33,10 @@
 
 #### Numeric Types
 
-- int
+- [int](https://yasirbhutta.blogspot.com/2022/09/python-numeric-types-int.html)
+  - [How to Convert a Python String to int](https://yasirbhutta.blogspot.com/2022/09/python-int-function-how-to-convert.html)
+  - [How to Convert a Python integer to string](https://yasirbhutta.blogspot.com/2022/09/python-str-function-how-to-convert.html)
+  - [Convert integer to octal and hexadecimal](https://yasirbhutta.blogspot.com/2022/09/python-tips-convert-integer-to-octal.html)
 - float
 - commplex
 

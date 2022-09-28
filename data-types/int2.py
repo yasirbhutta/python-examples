@@ -6,7 +6,6 @@ str2 = '14'    # string
 # Return an integer object from string
 print(int(str1)+int(str2))
 
-
 # How to Convert a Python integer to string
 num1 = 36
 num2 = 14
@@ -18,7 +17,7 @@ sum = num1+ num2
 
 print("Total = " + str(sum)) ## yes
 
-# Convert to octal and hexadecimal
+# Convert int to octal and hexadecimal
 
 print (oct(64), hex(64), hex(255))
 
