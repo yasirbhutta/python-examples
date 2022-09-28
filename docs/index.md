@@ -2,7 +2,7 @@
 
 [Python Online Course](python-courses.md)
 
-## Table of Contents
+## Python Learning Paths
 
 ### Installation & Getting Started
 
