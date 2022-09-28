@@ -1,8 +1,8 @@
-# User Guide
+# Python
 
 [Python Online Course](python-courses.md)
 
-## Python Learning Paths
+## Python learning path for beginners
 
 ### Installation & Getting Started
 
