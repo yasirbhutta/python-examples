@@ -9,13 +9,13 @@ print(int(str1)+int(str2))
 # How to Convert a Python integer to string
 num1 = 36
 num2 = 14
-sum = num1+ num2
+ttl = num1+ num2
 
 # the '+' does not automatically convert 
 # numbers or other types to string form.
-## print("Total = " + sum ) ## NO, does not work
+## print("Total = " + ttl ) ## NO, does not work
 
-print("Total = " + str(sum)) ## yes
+print("Total = " + str(ttl)) ## yes
 
 # Convert int to octal and hexadecimal
 
