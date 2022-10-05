@@ -65,6 +65,11 @@
 - bytearray
 - memoryview
 
+#### Related Topics
+
+####  exercise
+
+
 ### Control Flow
 
 #### conditions
