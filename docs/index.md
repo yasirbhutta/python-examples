@@ -23,8 +23,9 @@
 - Variable Names
 - More on Modules and their Namespaces
 - Online help, help(), and dir()
-- [Exercises](exercises.md)
-
+- [Exercises](python-exercises.md)
+- [MCQs](python-mcqs.md)
+  
 ### Python Data Types
 
 #### Text Type
