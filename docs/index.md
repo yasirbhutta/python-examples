@@ -67,8 +67,7 @@
 
 #### Related Topics
 
-####  exercise
-
+#### exercise
 
 ### Control Flow
 
