@@ -1,10 +1,12 @@
 # https://yasirbhutta.blogspot.com/
 # https://web.facebook.com/groups/pythontips
-# Python data types - list
 
+## Python List Slicing
 thislist=["red","green","blue","yellow",
  "pink", "black"]
+## lst[start:end] 
 print(thislist[2:5]) ##Output: ['blue', 'yellow', 'pink']
+##end
 
 ## List items can be of any data type
 list1 = ["apple", "banana", "cherry"]
