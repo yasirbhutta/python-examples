@@ -16,13 +16,16 @@ list3 = [True, False, False]
 ### list with mixed data types
 list1 = ["abc", 34, True, 40, "male"]
 
+print(list1) ##Output: ['abc', 34, True, 40, 'male']
 
-# Nested List
-n_list = ["Happy", [2, 0, 1, 5]]
+
+# Python Nested List
+n_list = ["Python", [2, 0, 1, 5]]
 
 # Nested indexing
-print(n_list[0][1])
+print(n_list[0][1]) ##Output:  y
 
-print(n_list[1][3])
+print(n_list[1])    ##Output:  [2, 0, 1, 5]
+print(n_list[1][2]) ##Output:  1   
 
-## range of indexes
+
