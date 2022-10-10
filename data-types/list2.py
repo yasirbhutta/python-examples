@@ -18,7 +18,6 @@ list1 = ["abc", 34, True, 40, "male"]
 
 print(list1) ##Output: ['abc', 34, True, 40, 'male']
 
-
 # Python Nested List
 n_list = ["Python", [2, 0, 1, 5]]
 
