@@ -9,7 +9,7 @@ thisdict = {
 }
 print(thisdict["name"]) ##Output: Muhammad Ahmad
 
-# loop
+# for loop with dict
 names = {'hamza': 'lion', 'yasir': 'well to do'}
 for n, m in names.items():
   print(f'name: {n}, meaning: {m}')
