@@ -1,10 +1,12 @@
 
+# This function adds two numbers and returns the result
 def add_numbers(x, y):
     return x + y
-result = add_numbers(5, 10)
-print(result)
-print(add_numbers(5, 10))
 
+# Example usage
+result = add_numbers(5, 10) # calls the add_numbers function with 5 and 10 and assigns the result to the variable 'result'
+print(result) # prints 15, the result of adding 5 and 10
+print(add_numbers(5, 10)) # calls the add_numbers function with 5 and 10 and prints the result (15)
 
 
 
