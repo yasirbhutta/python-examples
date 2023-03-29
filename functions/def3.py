@@ -3,7 +3,8 @@ def find_length(word):
     for char in word:
         length += 1
     return length 
-find_length("python language")
+result = find_length("python language")
+print(result)
 
 
 
