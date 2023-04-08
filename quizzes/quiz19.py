@@ -13,6 +13,7 @@ b[0] = 0
 print(a)
 
 
+# This line prints every other element of the 'my_list' starting from the second element
 # You can also follow me on:
 
 # Website: https://yasirbhutta.github.io/

@@ -2,7 +2,6 @@ def is_palindrome(s):
     return s == s[::-1]
 is_palindrome("racecar")
 
-
 # This program defines a function 'is_palindrome' that checks whether a given string is a palindrome.
 # The function takes a string argument 's'.
 # The function returns True if the string 's' is equal to its reverse, and False otherwise.
