@@ -1,7 +1,7 @@
 x = 5
 y = 10
 result = x > 3 or y < 5
-result
+print(result)
 
 
 # This program defines two variables 'x' and 'y' with values 5 and 10, respectively.

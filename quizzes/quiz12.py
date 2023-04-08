@@ -1,4 +1,5 @@
-2 ** 3 + 4 // 2 - 1
+result=2 ** 3 + 4 // 2 - 1
+print(result)
 
 # This program performs a series of arithmetic operations using integer values.
 # The operations are performed in the order they appear in the expression, using standard operator precedence rules.
