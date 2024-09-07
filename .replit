@@ -1,0 +1,9 @@
+modules = ["python-3.12"]
+entrypoint = "main.py"
+#run = "run"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "run"]
