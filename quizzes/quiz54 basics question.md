@@ -1,6 +1,6 @@
 **Python Quiz**                  
 Youtube@YasirBhutta
-### Question: What is Jupyter Notebook primarily used for in the Python ecosystem?
+## Question: What is Jupyter Notebook primarily used for in the Python ecosystem?
 
 ### **Options:**
 

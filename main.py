@@ -1,3 +1,3 @@
 import subprocess
 
-subprocess.call(['python', 'exercises/exercise40.py'])
+subprocess.call(['python', 'test-code.py'])
